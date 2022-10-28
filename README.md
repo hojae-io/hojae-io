@@ -1,4 +1,18 @@
-### Hi there 👋
+## Hi there, I'm Ho Jae 👋
+
+Hello, everyone. This is Ho Jae Lee! :slightly_smiling_face:
+I am currently studying at [ETH Zürich](https://ethz.ch/en.html) for my Master's degree. :book:
+I am in the second year of [Robotics, Systems and Control](https://master-robotics.ethz.ch/)
+
+My research interest is to develop reinforcement learning algorithms for locomition & manipulation for quadrupedal & bipedal robot.
+
+### Some of the past project..
+
+* During my bachelor thesis, I built my own DJI drone and developed autonomous delivery algorithms using Visual Odometry.
+
+* For my semester project at RSL, I developed algorithms for learning human-robot handover skills from human demonstrations using deep RL.
+
+If you want to know more about me and ongoing projects, check my [personal homepage](https://hojae-io.github.io/) :arrow_left:⚡
 
 <!--
 **hojae-io/hojae-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
