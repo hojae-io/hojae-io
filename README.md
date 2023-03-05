@@ -5,7 +5,7 @@ I am currently studying at [ETH Zürich](https://ethz.ch/en.html) for my Master'
 I am in the second year of [Robotics, Systems and Control](https://master-robotics.ethz.ch/)
 
 My research interest is to develop reinforcement learning algorithms for locomition & manipulation for quadrupedal & bipedal robot.
-_italic_
+
 ### Some of the past project..
 
 * During my bachelor thesis, I built my own DJI drone and developed autonomous delivery algorithms using Visual Odometry.
