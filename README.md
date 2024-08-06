@@ -1,8 +1,8 @@
 ## Hi there, I'm Ho Jae 👋
 
 Hello, everyone. This is Ho Jae Lee! :slightly_smiling_face:
-I am currently studying at [ETH Zürich](https://ethz.ch/en.html) for my Master's degree. :book:
-I am in the second year of [Robotics, Systems and Control](https://master-robotics.ethz.ch/)
+I am currently studying at [MIT](https://mit.edu/) for my Ph.D. degree focusing on Robotics.
+I graduated from [ETH Zürich](https://ethz.ch/en.html) for my Master's degree in [Robotics, Systems and Control](https://master-robotics.ethz.ch/) :book:
 
 My research interest is to develop reinforcement learning algorithms for locomition & manipulation for quadrupedal & bipedal robot.
 
